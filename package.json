@@ -1,0 +1,9 @@
+{
+  "name": "slideDemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jquery": "^3.3.1"
+  }
+}
